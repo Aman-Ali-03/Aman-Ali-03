@@ -8,8 +8,8 @@
 
 🌱 Currently learning Java, DSA, and Git
 
-🎯 Goal: Become a Java Backend Developer
+🎯 Goal:- Become a Java Backend Developer
 
-📫 Email: your@email.com
+📫 Email:- amaanali1340@email.com
 
 
