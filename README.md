@@ -2,7 +2,7 @@
   <img src="Banner2.png" alt="Aman Ali Banner" width="100%">
 </p>
 
-# Hi 👋 I'm Amaan Ali
+# Hi 👋 I'm Aman Ali
 
 💻 Java Developer
 
